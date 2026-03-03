@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Willow
+Aspiring full-stack developer with an interest in cybersecurity. Currently a VCE student exploring technologies and building skills for my future.
 
-<!--
-**willow-dll/willow-dll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills & Experience:**
+- Linux and command-line basics
+- Understanding of basic cybersecurity fundementals 
+- Learning programming and development fundamentals
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Goals:**
+- Gain experience in full-stack development
+- Deepen my knowledge of cybersecurity
+- Work on projects to build a soild portfolio
